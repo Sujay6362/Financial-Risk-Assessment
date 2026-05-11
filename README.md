@@ -1,5 +1,3 @@
-# Financial-Risk-Assessment
-Machine learning project for credit default prediction using the Kaggle “Give Me Some Credit” dataset. Includes EDA, preprocessing pipelines, SMOTE balancing, model benchmarking, hyperparameter tuning, and ensemble learning with XGBoost, Random Forest, SVM, and MLP models. Achieved ROC-AUC of 0.837 using an XGB+RF ensemble.
 # Financial Risk Assessment — Credit Default Prediction
 
 A complete end-to-end machine learning project for predicting borrower default risk using the Kaggle **Give Me Some Credit** dataset.
@@ -345,13 +343,8 @@ Add your name, LinkedIn, and GitHub profile here.
 Example:
 
 ```txt
-Name: Your Name
-LinkedIn: https://linkedin.com/in/yourprofile
-GitHub: https://github.com/yourusername
+Name: Sujay Shiva Prakash
+LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sujay-shiva-prakash/
 ```
 
 ---
-
-# License
-
-This project is open-source and available under the MIT License.
